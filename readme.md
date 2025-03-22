@@ -1,4 +1,3 @@
-![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
 
 <p align="center">
   <img src="https://github.com/agasekode.png" width="150" height="150" alt="Your Name">
@@ -25,4 +24,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agasekode&layout=compact&theme=catppuccin-mocha)
 
 ---
-⭐️ From [your-github-username](https://github.com/your-github-username)
