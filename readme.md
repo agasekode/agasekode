@@ -3,7 +3,7 @@
   <img src="https://github.com/agasekode.png" width="150" height="150" alt="Your Name">
 </p>
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Agas Pratama
 
 [![GitHub followers](https://img.shields.io/github/followers/agasekode?label=Follow&style=social)](https://github.com/agasekode)
 [![GitHub stars](https://img.shields.io/github/stars/agasekode?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/agasekode)
